@@ -9,5 +9,8 @@ int main()
    my::Vec2 res = v0 + v1;
    res.Print();
 
+
+   std::cout << "cacca pupu" << std::endl;
+
    return 0;
 }
